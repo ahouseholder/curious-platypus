@@ -1,4 +1,4 @@
-# This is the Picture (Excellent Branch)
+# Excellent Branch's Title Conflict Resolution
 
 This file is called Excellent, because that's how it is.
 
